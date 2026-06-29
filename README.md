@@ -14,5 +14,3 @@ I am a 17-year-old student currently in my second year of the Systems Developmen
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) CSS3
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) JavaScript
 
-
-![Card do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial)
