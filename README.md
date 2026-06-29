@@ -1,7 +1,7 @@
 # Hello, my name is Pedro Yassuo! 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Estudante-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Foco-Systems%20Development-green?style=for-the-badge" alt="Foco">
 </p>
 
