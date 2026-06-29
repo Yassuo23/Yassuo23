@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello, my name is Pedro Yassuo 
+
+I am a 17-year-old student currently in my second year of the Systems Development program at Colégio Técnico de Limeira (COTIL). My journey with technology began naturally through gaming with friends. Over time, my curiosity about how computers work grew, inspiring me to dive deeper and develop skills in video editing, programming, and creative project planning.
+
+
 
 <!--
 **Yassuo23/Yassuo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
